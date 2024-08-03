@@ -578,16 +578,12 @@ video {
   display: flex;
 }
 
-.h-\[27rem\] {
-  height: 27rem;
+.h-\[28rem\] {
+  height: 28rem;
 }
 
 .h-screen {
   height: 100vh;
-}
-
-.h-\[28rem\] {
-  height: 28rem;
 }
 
 .w-20 {
